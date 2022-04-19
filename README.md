@@ -2,6 +2,8 @@
    <h1>Hi there, I'm Gladys</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+
 <p>
 I am a third-year Information Systems student at Universitas Multimedia Nusantara. I have developed analytical and problem-solving skills through my study. I supplement this skill through my competency in programming languages and software for data analysis purposes. My determination and dedication is highlighted by several data analysis mini projects and teachings during my university year. I am now looking to further develop and use my skills in a year in industry placement, specifically in data science and analytics.
 </p>
@@ -11,8 +13,8 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
 </p>
 
 - 🏢 I’m currently working part time as Laboratory Assistant
-- 🔥 I’m currently learning data science
-- 📫 How to reach me: linkedin.com/in/gladyspatricia/
+- 🔥 I’m currently learning data science using Python
+- 📫 Reach me out on <a href = "https://www.linkedin.com/in/gladyspatricia/"> LinkedIn </a>
 - ⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️
 
 <h2>👀 My github Stats</h2>
@@ -26,4 +28,4 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
 </div>
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=gladyspatricia&show_icons=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladyspatriciah&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladyspatricia&layout=compact)
