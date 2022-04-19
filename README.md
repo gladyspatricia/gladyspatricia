@@ -6,8 +6,10 @@
 
 <strong>About Me:</strong><br>
 <p>
-I am a third-year Information Systems student at Universitas Multimedia Nusantara. I have developed analytical and problem-solving skills through my study. I supplement this skill through my competency in programming languages and software for data analysis purposes. My determination and dedication is highlighted by several data analysis mini projects and teachings during my university year. I am now looking to further develop and use my skills in a year in industry placement, specifically in data science and analytics.
+I am a third-year Information Systems student at Universitas Multimedia Nusantara. I have developed analytical and problem-solving skills through my study. I supplement this skill through my competency in programming languages and software for data analysis purposes (R, Python, SQL, Tableau, Power BI, Ms. Excel). My determination and dedication is highlighted by several data analysis mini projects and teachings during my university year. I am now looking to further develop and use my skills in a year in industry placement, specifically in data science and analytics.
 </p>
+
+<br>
 
 <ul>
    <li>🏢 I’m currently working part time as Laboratory Assistant in Universitas Multimedia Nusantara</li>
@@ -23,7 +25,7 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
    <li>⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️</li>
 </ul>
 
-
+<br><br>
 <h2>Languages and Tools</h2>
 <p align="center">
   <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
@@ -33,7 +35,7 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
   <img src="https://github.com/MikeCodesDotNET/ColoredBadges/blob/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
 </p>
 
-
+<br><br>
 <h2>My github Stats</h2>
 
 <div>
@@ -46,3 +48,4 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
 
 ![My github status](https://github-readme-stats.vercel.app/api?username=gladyspatricia&show_icons=true&include_all_commits=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladyspatricia&layout=compact)
+
