@@ -21,7 +21,7 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
          <li>1st Winner of UI/UX Design Competition held by Unika Atma Jaya</li>
       </ul>
    </li>
-   <li>📫 Reach me out on <a href = "https://www.linkedin.com/in/gladyspatricia/"> LinkedIn </a> or <a href="mailto:gladysptc@gmail.com">gladysptc@gmail.com</a></li>
+   <li>📫 Reach me out on <a href = "https://www.linkedin.com/in/gladyspatricia/"> LinkedIn </a> or <a href="mailto:gladysptc@gmail.com">send me an E-mail!</a></li>
    <li>⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️</li>
 </ul>
 
