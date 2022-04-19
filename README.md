@@ -17,7 +17,17 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
 - 📫 Reach me out on <a href = "https://www.linkedin.com/in/gladyspatricia/"> LinkedIn </a> or <a href="gladysptc@gmail.com">send me E-mail!</a>
 - ⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️
 
-<h2>👀 My github Stats</h2>
+<h2>Languages and Tools</h2>
+<p align="center">
+  <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/r.svg" alt="r" style="vertical-align:top; margin:4px">    
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/python.svg" alt="python" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/languages/rsoftware.svg" alt="rstudio" style="vertical-align:top; margin:4px">
+  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/dev/tools/visualstudio_code.svg" alt="vscode" style="vertical-align:top; margin:4px">
+</p>
+
+
+<h2>My github Stats</h2>
 
 <div>
    
