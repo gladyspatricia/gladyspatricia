@@ -13,16 +13,17 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
 - 🏢 I’m currently working part time as Laboratory Assistant
 - 🔥 I’m currently learning data science
 - 📫 How to reach me: linkedin.com/in/gladyspatricia/
+- ⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️
 
+<h2>👀 My github Stats</h2>
 
-### Hi there 👋
+<div>
+   
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=gladyspatricia" alt="GitHub Stats" /> <br/><br/>
+  
+</div>
 
-<!--
-**gladyspatricia/gladyspatricia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🏢 I’m currently working part time as Laboratory Assistant
-- 🔥 I’m currently learning data science
-- 📫 How to reach me: linkedin.com/in/gladyspatricia/
--->
+![My github status](https://github-readme-stats.vercel.app/api?username=gladyspatricia&show_icons=true&include_all_commits=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gladyspatriciah&layout=compact)
