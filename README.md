@@ -2,7 +2,7 @@
    <h1>Hi there, I'm Gladys</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=Bhargavi-hash.repoName) [![GitHub followers](https://img.shields.io/github/followers/Bhargavi-hash.svg?style=social&label=Follow)](https://github.com/Bhargavi-hash?tab=followers)<br/>
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gladyspatricia.repoName) [![GitHub followers](https://img.shields.io/github/followers/gladyspatricia.svg?style=social&label=Follow)](https://github.com/gladyspatricia?tab=followers)<br/>
 
 <p>
 I am a third-year Information Systems student at Universitas Multimedia Nusantara. I have developed analytical and problem-solving skills through my study. I supplement this skill through my competency in programming languages and software for data analysis purposes. My determination and dedication is highlighted by several data analysis mini projects and teachings during my university year. I am now looking to further develop and use my skills in a year in industry placement, specifically in data science and analytics.
