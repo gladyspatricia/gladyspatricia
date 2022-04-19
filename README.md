@@ -23,7 +23,6 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
    <li>⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️</li>
 </ul>
 
-<br><br>
 
 <h2>Languages and Tools</h2>
 <p align="center">
