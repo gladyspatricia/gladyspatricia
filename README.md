@@ -47,7 +47,5 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
 </div>
 
 
-![roughyy's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladyspatricia&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gladyspatricia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladyspatricia&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=gladyspatricia&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+![Gladys's GitHub stats](https://github-readme-stats.vercel.app/api?username=gladyspatricia&show_icons=true&theme=radical) <a href="https://github.com/SubhamRaoniar28/github-readme-stats"><img alt="gladyspatricia's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gladyspatricia&langs_count=8&count_private=true" /></a>
 
