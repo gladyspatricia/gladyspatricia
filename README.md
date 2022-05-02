@@ -22,6 +22,7 @@ I am a third-year Information Systems student at Universitas Multimedia Nusantar
       </ul>
    </li>
    <li>📫 Reach me out on <a href = "https://www.linkedin.com/in/gladyspatricia/"> LinkedIn </a> or <a href="mailto:gladysptc@gmail.com">send me an E-mail!</a></li>
+   <li>👉 <a href = "https://public.tableau.com/app/profile/gladys.patricia">Click here to see my work for visualization</a>
    <li>⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️</li>
 </ul>
 
