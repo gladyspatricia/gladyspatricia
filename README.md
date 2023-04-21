@@ -1,29 +1,21 @@
 <div align="center">
-   <h1>Hi there, I'm Gladys</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+   <h1>Hi there </a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=gladyspatricia.repoName) [![GitHub followers](https://img.shields.io/github/followers/gladyspatricia.svg?style=social&label=Follow)](https://github.com/gladyspatricia?tab=followers)<br/>
 
 <strong>About Me:</strong><br>
 <p>
-I am a third-year Information Systems student at Universitas Multimedia Nusantara. I have developed analytical and problem-solving skills through my study. I supplement this skill through my competency in programming languages and software for data analysis purposes (R, Python, SQL, Tableau, Power BI, Ms. Excel). My determination and dedication is highlighted by several data analysis mini projects and teachings during my university year. I am now looking to further develop and use my skills in a year in industry placement, specifically in data science and analytics.
+I am a third-year Information Systems student at Universitas Multimedia Nusantara. I have developed analytical and problem-solving skills through my study. I supplement this skill through my competency in programming languages and software for data analysis purposes (R, Python, SQL, Tableau, Power BI, Ms. Excel).
 </p>
 
 <br>
 
 <ul>
-   <li>🏢 I’m currently working part time as Laboratory Assistant in Universitas Multimedia Nusantara</li>
-   <li>🔥 I’m currently learning data science using Python</li>
-   <li>🏆 My Achievements:
-      <ul>
-         <li>Certified International Specialist in Data Visualization issued by PASAS Institute</li>
-         <li>Global Class Data Science Incubation using Python</li>
-         <li>1st Winner of UI/UX Design Competition held by Unika Atma Jaya</li>
-      </ul>
-   </li>
+   <li>Certified International Specialist in Data Visualization issued by PASAS Institute</li>
+   <li>1st Winner of UI/UX Design Competition held by Unika Atma Jaya</li>
    <li>📫 Reach me out on <a href = "https://www.linkedin.com/in/gladyspatricia/"> LinkedIn </a> or <a href="mailto:gladysptc@gmail.com">send me an E-mail!</a></li>
    <li>👉 <a href = "https://public.tableau.com/app/profile/gladys.patricia">Click here to see my work for visualization</a>
-   <li>⚡️ Fun fact: Outside tech, I am an art & music enthusiast! 🖌️</li>
 </ul>
 
 <br><br>
